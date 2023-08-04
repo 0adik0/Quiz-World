@@ -2,5 +2,3 @@
 Это мини игра-викторина
 
 <img src="https://github.com/0adik0/Quiz-World/blob/main/img.png" width="500">
-
-https://github.com/0adik0/Quiz-World/blob/main/img.png

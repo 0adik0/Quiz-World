@@ -4,3 +4,5 @@
 <img src="https://github.com/0adik0/Quiz-World/blob/main/img.png" width="200">
 
 <button onclick="window.location.href = 'https://www.google.kz/';">Скачать APK</button>
+
+[скачать апк](https://www.google.kz/)

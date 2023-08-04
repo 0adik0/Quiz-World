@@ -1,4 +1,4 @@
 # Quiz-World
 Это мини игра-викторина
 
-<img src="https://github.com/0adik0/Quiz-World/blob/main/img.png" width="300">
+<img src="https://github.com/0adik0/Quiz-World/blob/main/img.png" width="200">
